@@ -1,0 +1,9 @@
+.container{
+    background-color: rgb(211, 205, 205);
+    align-items: center;
+    text-align: center;
+    margin: 20px;
+}
+h5{
+    margin: 20px;
+}
